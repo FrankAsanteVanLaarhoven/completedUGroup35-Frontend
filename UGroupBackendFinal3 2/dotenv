@@ -1,0 +1,14 @@
+CLOUDINARY_NAME="debvdiqkz"
+CLOUDINARY_KEY="396157967527223"
+CLOUDINARY_SECRET="8IPcIOMmC5zy3EzedeXXUVcyMAw"
+UNSPLASH_NAME="Ataite"
+UNSPLASH_KEY="DXCExybvUTDYgVw2JJlwyy2aeag6bTigchpJtdWv_GY"
+UNSPLASH_SECRET="trquzcTOZm0YWyNeH8VHS7Zy3G9Tw51JltqWJfl6UeY"
+COOKIE_SECRET="fjiqwif'fkwlqrdkk jfgnolwq]jwfqhio'w  w09wop"
+DATABASE_URL=mongodb+srv://Ataire:UGr0up@ataire.dlxhx.mongodb.net/Ataire?retryWrites=true&w=majority
+STRIPE_SECRET="sk_test_51It7NgHOhP4vQmoKiPk5Y6DqDZ6gKfKOXEUVUB6FAIOBk7c2BmsVC1koSTREUvCsKXEkLwwm5tkQXVp15RYgL6iD00yAPi98um"
+MAIL_HOST="smtp.ethereal.email"
+MAIL_PORT=587
+MAIL_USER="get-one-from- http://ethereal.email"
+MAIL_PASS="get-one-from- http://ethereal.email"
+FRONTEND_URL="http://localhost:7777"
